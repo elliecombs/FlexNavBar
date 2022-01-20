@@ -1,0 +1,28 @@
+.nav {
+    background-color: rgb(58, 55, 55);
+    color: whitesmoke;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 10px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: right;
+    list-style: none;
+}
+
+.btn {
+    background-color: rgb(81, 164, 212);
+    align-items: right;
+    justify-content:space-evenly;
+    color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    justify-content: space-between;
+    padding: 10px;
+}
